@@ -3,7 +3,8 @@ Webpack
 
 Créer et comprendre une configuration de webpack à travers le tutorial Grafikart : https://www.grafikart.fr/formations/webpack/babel-es2015
 
-Formations:
+Formations
+========================
 - Configuration
 - Babel (es2015) : convertir le code js pour le rendre compatible avec les navigateurs
 - Minification et Lazy Loading (loader, plugin) : Minifier le JavaScript est un bon moyen d'améliorer le temps de chargement de l'application. 
